@@ -1,0 +1,10 @@
+# 필수 패키지
+numpy>=1.20.0
+opencv-python>=4.5.0
+ultralytics>=8.0.0
+imutils>=0.5.4
+
+# 선택적 패키지 (성능 향상)
+torch>=2.0.0  # GPU 지원을 위해
+torchvision>=0.15.0
+torchaudio>=2.0.0
