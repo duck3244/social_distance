@@ -1,3 +1,10 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Uploaded videos
+backend/uploads/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
